@@ -1,0 +1,23 @@
+# Distribution archives
+*.zip
+
+# Generated documents
+*.docx
+
+# Test workspace (contains personal eval data)
+socratic-teaching-assistant-workspace/
+
+# Personal/student-specific files
+build-eval-sidharth.js
+eval-form-sidharth.js
+
+# Unknown binaries
+ziEq5ppa
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,8 @@
+{
+  "name": "socratic-teaching-assistant",
+  "description": "Develops critical thinking through Socratic questioning. Two modes: Instructor Mode for classroom facilitation, Student Mode running the ACSR protocol with adaptive calibration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rohan K George"
+  }
+}

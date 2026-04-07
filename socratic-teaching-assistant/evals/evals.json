@@ -1,0 +1,47 @@
+{
+  "skill_name": "socratic-teaching-assistant",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I'm a law professor preparing for tomorrow's seminar on fundamental rights. A student submitted this analysis and I want to use it to generate discussion points:\n\n'The right to privacy as recognised in K.S. Puttaswamy v. Union of India is an absolute right under Part III of the Constitution. Since Puttaswamy, no government surveillance programme can be considered constitutional. The Aadhaar scheme was struck down entirely because it violated this right. Any future legislation that requires citizens to share biometric data with the government will automatically be unconstitutional.'\n\nMy students are second-year law students. Help me prepare provocations for class discussion.",
+      "expected_output": "Instructor mode. Structured provocations exposing factual and analytical errors, framed as discussion questions. Facilitation document with sequencing and notes.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "I have to write analysis on whether a company can terminate employee without notice during probation period. My position is that probation employee has no right and company can terminate anytime. I am not fully sure about this but this is what I think based on what I learned. I want you to challenge my thinking and help me see what I might be missing.",
+      "expected_output": "Student mode. Language Level 1-2 calibration. Provocations presented ONE AT A TIME, not all at once. Accessible language. No jargon the student has not used first.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "I'm working through a constitutional law question for my thesis. My argument is that the doctrine of basic structure, as articulated in Kesavananda Bharati, operates as a supra-constitutional norm — it constrains the amending power not by reference to any textual provision but by appeal to an unarticulated constitutional identity that the Court claims interpretive authority over. I believe this makes the basic structure doctrine fundamentally undemocratic because it places judicial interpretation above the constituent power of Parliament. I'm fairly confident in this position but I acknowledge that the counterargument from constitutional morality is strong. The assumption I'm least sure about is whether constituent power and amending power are genuinely distinct concepts or whether that distinction is itself a judicial construction. Challenge me.",
+      "expected_output": "Student mode. Language Level 3, Intensity 4. Should recognise Articulate phase is complete and move directly to Challenge. Multi-layered provocations at thesis level.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "Hi, I'm in IB year 1 doing History HL. I have to write an essay for my IA on whether the Treaty of Versailles was the main cause of World War 2. I think it was the main cause because it was really harsh on Germany and made them want revenge. I'm not sure if there were other causes that matter more though. Can you help me think better about this?",
+      "expected_output": "Student mode. Should detect Language Level 1-2, Intensity 1. IB Year 1 student — secondary school level. Provocations must be presented ONE AT A TIME. Plain language, no historiographical jargon. Concrete 'what if' framing. Should feel like a supportive teacher asking good questions, not a university examiner. Should ask for the student's position before generating provocations, or if the position is considered sufficient, proceed with one gentle provocation.",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "I'm a philosophy undergraduate. For my ethics essay, I'm arguing that utilitarianism cannot account for individual rights because it treats people as interchangeable units of utility. My main evidence is the trolley problem — pushing someone off a bridge to save five is utilitarian but violates that person's rights. I assume that rights exist independently of consequences. I'm least confident about whether rule utilitarianism solves this problem or not. Challenge my thinking.",
+      "expected_output": "Student mode. Language Level 2, Intensity 2-3. Philosophy undergraduate. Should recognise the Articulate phase is substantially complete. Provocations should use the Competing Frameworks lens (rule vs act utilitarianism), Assumption Extraction (do rights exist independently of consequences?), and Scope Stress Test (does the trolley problem generalise?). Should present 2-3 provocations, not a wall of text.",
+      "files": []
+    },
+    {
+      "id": 6,
+      "prompt": "I am teaching a Grade 12 economics class tomorrow. The topic is market failure and externalities. I want to use a recent news article about air pollution in Delhi as the basis for a Socratic discussion. My students have learned the textbook definition of externalities but struggle to apply it to real situations. Can you prepare provocations I can use?",
+      "expected_output": "Instructor mode. Should detect secondary school level students and calibrate provocations to Intensity 1-2. Provocations should be grounded in the Delhi pollution scenario, not abstract theory. Should include facilitation notes appropriate for a high school classroom. Language should be accessible for Grade 12 students.",
+      "files": []
+    },
+    {
+      "id": 7,
+      "prompt": "For my biology extended essay I want to argue that CRISPR gene editing should be allowed for treating genetic diseases in humans. I think its good because it can stop diseases like sickle cell before people are born with them. I know some people think its wrong to edit genes but I think saving lives is more important. I'm not sure about the slippery slope argument though, like if we allow it for diseases will people start using it to make designer babies. Help me think about this more carefully.",
+      "expected_output": "Student mode. IB-level student. Language Level 1 based on writing (missing apostrophes, simpler syntax, informal register). Intensity 1. Provocations presented ONE AT A TIME. Should not use terms like 'normative-descriptive separation' or 'warrant' — should use plain language equivalents. Should feel encouraging and curious, not intimidating. The student has provided enough for a provisional Articulate phase — should acknowledge their position and gently probe with one focused provocation.",
+      "files": []
+    }
+  ]
+}
