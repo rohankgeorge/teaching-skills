@@ -15,6 +15,12 @@ Use this template to create a new learner profile. Save completed profiles to
 - Sessions completed: [N]
 - Last session date: [date]
 
+## Student Context
+- Level of study: [e.g., IB Year 1, undergraduate second year, postgraduate, professional]
+- Desired understanding level: [where the student wants to get to -- can exceed level of study]
+- Purpose: [re-gathered per session/topic]
+- Intended outcome: [re-gathered per session/topic -- understanding, essay, moot, exam prep, etc.]
+
 ## Active Reasoning Patterns
 
 ### Recurring Strengths
@@ -35,6 +41,11 @@ even when the analysis is jurisdiction-dependent."]
 [Brief narrative: what has improved since the earliest sessions? What remains
 persistent? Are new challenges emerging as the student tackles harder material?]
 
+## Retrieval Schedule
+| Weakness / Blind Spot | Date Identified | Session Identified | Review Intervals | Next Review (Session #) | Status |
+|---|---|---|---|---|---|
+| [description] | [date] | [session #] | 1, 3, 7, then every 10 | [next session #] | active / resolved / monitoring |
+
 ## Calibration History
 [Track changes to language level and provocation intensity, with the reason
 for each change.]
@@ -46,6 +57,12 @@ for each change.]
 - [Date]: Language raised to [X] — student's written responses showing increased
   clause density and rhetorical sophistication
 
+## Source Verification Log
+- [Date]: Student cited [source] for [claim]. Verification result: [accurate / mischaracterised / unreliable]. Flag provided: [description]. Student response: [self-corrected / did not self-correct / partially corrected].
+
+## Resistance Event Log
+- [Date]: Resistance type: [answer-seeking / phase-skipping / disengagement / other]. Diagnostic: [competence signal / preference signal]. Response used: [description]. Outcome: [re-engaged / escalated / session ended].
+
 ---
 
 ## Session Log
@@ -53,13 +70,20 @@ for each change.]
 ### Session 1: [Date] — [Topic]
 - Discipline: [X]
 - Language: Level [X] | Intensity: [X]
+- Student Context:
+  - Purpose: [re-gathered this session]
+  - Intended outcome: [re-gathered this session]
 - Provocations used: [list of lenses]
 - Engagement quality: [dismissive / surface / substantive / generative]
+- Source verification events: [if any, list what was verified and outcome]
+- Worked example provided: [yes/no, with provocation if yes]
+- Resistance events: [if any, list type and diagnostic]
 - Key observations:
   - [What stood out about this student's reasoning in this session]
   - [Specific strengths demonstrated]
   - [Specific weaknesses demonstrated]
   - [How the student handled the most difficult provocation]
+- Knowledge Exploration and Verification findings: [if available from complementary skill]
 - Recommendation for next session: [any adjustments to calibration, lenses
   to prioritise, patterns to probe]
 
@@ -67,6 +91,16 @@ for each change.]
 [Same structure. Include comparison to Session 1 where relevant.]
 
 [Continue for each session.]
+
+---
+
+## Knowledge Exploration and Verification Observations
+[Populated by the Knowledge Exploration and Verification skill when used]
+- Mastery stage reached: [foundational factual / interpretation / structural / logical / analytical / opinion-seeking / application]
+- Knowledge gaps identified: [list]
+- Factual errors found: [list]
+- Stage progression speed: [fast / normal / slow, with notes]
+- Consolidation outcome: [understanding synthesis / deliverable handoff plan]
 ```
 
 ---

@@ -1,0 +1,18 @@
+{
+  "name": "teaching-skills",
+  "owner": {
+    "name": "Rohan K George"
+  },
+  "plugins": [
+    {
+      "name": "socratic-teaching-assistant",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/rohankgeorge/teaching-skills.git",
+        "path": "socratic-teaching-assistant"
+      },
+      "description": "Two complementary skills for teaching and learning: Socratic Teaching Assistant (reasoning through structured provocation) and Knowledge Exploration and Verification (mastery-based knowledge acquisition).",
+      "version": "2.0.0"
+    }
+  ]
+}

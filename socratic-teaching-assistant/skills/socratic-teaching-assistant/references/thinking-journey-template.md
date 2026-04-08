@@ -36,6 +36,11 @@ preferred format.
 - Provocation intensity: [starting level; note if changed mid-session]
 - Calibration adjustments: [any manual overrides or automatic recalibrations, with
   the reason — e.g., "Student requested increase from Intensity 2 to 3 during Phase 2"]
+- Student Context:
+  - Level of study: [e.g., IB Year 1, undergraduate second year, postgraduate, professional]
+  - Desired understanding level: [where the student wants to get to]
+  - Purpose: [why the student is doing this work]
+  - Intended outcome: [understanding, essay, moot, exam prep, etc.]
 - Provocation lenses used: [list]
 
 ---
@@ -95,6 +100,19 @@ the student's responses to those follow-ups]
 the student stated a reason ("I don't think this applies because...") or simply
 did not respond.]
 
+### Source Verification Events (if any)
+[For each source the student cited that was verified:]
+- Source cited: [what the student cited]
+- Claim supported: [what the student said the source proves]
+- Verification result: [accurate / mischaracterised / unreliable]
+- Flag provided: [what the skill said to the student]
+- Student response: [how the student responded to the flag]
+
+### Conditional Worked Example (if provided)
+- Provocation addressed: [which provocation]
+- Reasoning move modelled: [description of the move]
+- Student's self-explanation: [student's comparison of their approach vs. the model, verbatim]
+
 ---
 
 ## Phase 4: Reflection
@@ -116,6 +134,9 @@ did not respond.]
 - Most difficult challenge: [student's answer, verbatim]
 - Discovery about own reasoning: [student's answer, verbatim]
 - What they would do differently: [student's answer, verbatim]
+
+### Intended Outcome Note
+[If the student's intended outcome (from Student Context) is a specific deliverable, note it here. This signals to the Knowledge Exploration and Verification skill that consolidation should include a handoff plan.]
 
 ---
 

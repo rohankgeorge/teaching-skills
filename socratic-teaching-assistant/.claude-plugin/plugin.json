@@ -1,7 +1,7 @@
 {
   "name": "socratic-teaching-assistant",
-  "description": "Develops critical thinking through Socratic questioning. Two modes: Instructor Mode for classroom facilitation, Student Mode running the ACSR protocol with adaptive calibration.",
-  "version": "1.0.0",
+  "description": "Two complementary skills for teaching and learning. The Socratic Teaching Assistant develops critical thinking through structured provocation. The Knowledge Exploration and Verification skill guides knowledge acquisition through mastery-based questioning. Both share a learner profile and can operate independently or as a pipeline.",
+  "version": "2.0.0",
   "author": {
     "name": "Rohan K George"
   }

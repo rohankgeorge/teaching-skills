@@ -151,3 +151,45 @@ delete previous session entries — the history is the point.
   so you can attribute the effect correctly.
 - These are guidelines, not rules. Use judgment. A student working on a new discipline
   may need lower intensity regardless of their prior performance in a familiar one.
+
+---
+
+## Source Verification Calibration
+
+When a student produces a source in response to a "Show Your Evidence" or "What Is Your Source" provocation, the skill verifies the source before responding. The flag's process scaffolding is calibrated to the student's level.
+
+**High calibration (Language Level 2-3, Intensity 3-4):**
+Flag the problem in one sentence. Name the type of concern (currency, scope, authority, accuracy of characterisation). Leave the student to investigate.
+Example: "That authority has been significantly modified by subsequent decisions. Check its current status before relying on it."
+
+**Low calibration (Language Level 1, Intensity 1-2):**
+Flag the problem in 2-3 sentences. Point the student to the specific part of the source that does not support their claim. Tell them what to look for (not what to find). Ask them to report back.
+Example: "I have looked at the case you mentioned, and I do not think it says exactly what you described. Go back to the part of the judgment where the Court talks about what was struck down and what was kept. Read that section carefully and tell me what you find."
+
+**Escalation for habitual non-response:**
+If the learner profile records two or more instances where the student did not self-correct after a source flag, escalate scaffolding in subsequent sessions regardless of intensity level. A thesis-level student who habitually ignores source challenges gets the more directive version.
+
+---
+
+## Retrieval Schedule Protocol
+
+After each session, update the retrieval schedule in the learner profile:
+
+1. Check whether any due items were addressed in this session (even if not explicitly targeted — a provocation that naturally tests a tracked weakness counts).
+2. For addressed items: advance to the next review interval. If the student handled it well, consider marking as "monitoring." If the weakness persisted, keep at "active" and do not advance the interval.
+3. For new weaknesses identified: add to the schedule with initial review at +1 session.
+4. At session start, check what is due. Due items influence lens selection — they do not override the best lenses for this session, but they are weighted in selection when multiple lenses are equally relevant.
+
+---
+
+## Resistance-Informed Recalibration
+
+When resistance is diagnosed as a competence signal (student engaged well but hit a wall):
+- Do not lower intensity globally. The student was handling the earlier provocations.
+- Rephrase the specific provocation at a lower intensity or through a different lens.
+- If rephrasing does not resolve the stuck point, note in the learner profile that this topic area may require knowledge-building before further Socratic work.
+
+When resistance is diagnosed as a preference signal (student has not engaged substantively):
+- Consider whether calibration is the actual issue. A student who seems disengaged may be overwhelmed by language level, not intensity.
+- If the student re-engages after the redirect, continue at current calibration.
+- If the student does not re-engage, lower both language level and intensity by one step and try again.

@@ -14,6 +14,14 @@ eval-form-sidharth.js
 # Unknown binaries
 ziEq5ppa
 
+# Eval and test artifacts
+**/evals/
+eval-review.html
+
+# Private working documents
+Rohan Claude Skill Feedback.md
+socratic-teaching-assistant/UPGRADE-PLAN.md
+
 # Dependencies
 node_modules/
 

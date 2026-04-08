@@ -1,29 +1,43 @@
 # Teaching Skills
 
-A collection of Claude Code plugins for teaching and learning.
+Claude Code plugins for teaching and learning. The core principle: AI should increase the cognitive demand on the learner, not decrease it.
+
+---
 
 ## Plugins
 
-### [Socratic Teaching Assistant](socratic-teaching-assistant/)
+### Socratic Teaching Assistant
 
-Develops critical thinking through structured Socratic questioning. Two modes:
-- **Student Mode** runs the ACSR protocol (Articulate, Challenge, Strengthen, Reflect)
-  with adaptive intensity calibration and cross-session learning.
-- **Instructor Mode** generates provocations and facilitation guides for classroom use.
+Develops critical thinking through structured provocation. The skill generates questions, challenges, and counterarguments rather than answers or completed work. Two modes:
 
-Works across disciplines — legal analysis, scientific reasoning, policy arguments,
-philosophical inquiry, engineering design, and more.
+- Student Mode runs the ACSR protocol (Articulate, Challenge, Strengthen, Reflect) with adaptive intensity calibration, source verification, and cross-session learning via persistent learner profiles.
+- Instructor Mode generates provocations and facilitation guides for classroom use.
+
+### Knowledge Exploration and Verification
+
+Guides knowledge acquisition through mastery-based questioning. The skill works through questions designed to be answered by engaging with source material, testing understanding at progressively deeper levels. Seven stages from foundational factual recall through application. Prepares research briefs when no source material exists. Advances students who demonstrate reasonable mastery at each stage, with a ceiling protocol that prevents motivation collapse when a student is stuck.
+
+### How the skills work together
+
+The two skills share a learner profile and can operate independently or as a pipeline in either direction. A student might complete a Socratic session to stress-test their reasoning, then feed the Thinking Journey document into Knowledge Exploration for mastery testing and consolidation. Or a student might start with Knowledge Exploration to build a factual foundation, then move to the Socratic skill to develop arguments on that foundation. Neither skill requires the other.
+
+---
 
 ## Installation
 
-Each plugin is a self-contained Claude Code plugin. Clone the repository and point
-Claude Code to the plugin directory you want to use:
+Add the marketplace to Claude Code:
 
 ```
-git clone https://github.com/rohankgeorge/teaching-skills.git
+/plugin marketplace add rohankgeorge/teaching-skills
 ```
 
-See each plugin's README for specific installation and usage instructions.
+Install the plugin:
+
+```
+/plugin install socratic-teaching-assistant@teaching-skills
+```
+
+Both skills are included in a single plugin. See the [plugin README](socratic-teaching-assistant/) for detailed usage instructions and alternative deployment options (Claude Projects, ChatGPT).
 
 ## License
 
